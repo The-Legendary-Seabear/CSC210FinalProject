@@ -1,0 +1,66 @@
+body {
+    background-image: url(../Images/Appl.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Times New Roman", serif;
+    color: #D183C9;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header & Footer */
+header, footer {
+    background-color: #643A71;
+    color: #FEC0CE;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+/* Headings */
+h1 {
+    color: #E3879E;
+    text-align: center;
+}
+
+h2 {
+    color: #8B5FBF;
+}
+
+/* Unordered list */
+nav ul {
+    list-style: none;
+    padding: 0;
+    background-color: #643A71;
+    overflow: hidden;
+}
+
+/* List */
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/* This affects the links to the links to the other pages */
+nav a {
+    color: #FEC0CE;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Main Content */
+main {
+    background-color: #FEC0CE;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Color palette:
+#643A71
+#8B5FBF
+#D183C9
+#E3879E
+#FEC0CE
+*/
